@@ -39,7 +39,7 @@ Alternatively, the service ID is the UUID in the URL when viewing a service:
 
 ## Customizing the Schedule
 
-Edit the `cronSchedule` in `railway.toml` or override it in your Railway service settings:
+Set the cron schedule in your Railway service settings under **Settings > Cron Schedule**:
 
 | Schedule | Cron Expression |
 |---|---|

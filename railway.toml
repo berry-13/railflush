@@ -1,9 +1,1 @@
 [deploy]
-# Default: every 6 hours
-cronSchedule = "0 */6 * * *"
-
-# Common schedule examples:
-# Every hour:      "0 * * * *"
-# Every 6 hours:   "0 */6 * * *"
-# Every 12 hours:  "0 */12 * * *"
-# Daily at midnight: "0 0 * * *"

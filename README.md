@@ -7,7 +7,7 @@ Automatically restart Railway deployments on a cron schedule. Prevents memory bl
 - **Near-zero cost** — runs as a cron job, container stops between runs
 - **Fast** — restarts containers instantly (no rebuild or redeploy)
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/YOUR_TEMPLATE_ID)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/JRSncj?referralCode=HI9hWz)
 
 ## How It Works
 
